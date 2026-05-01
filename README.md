@@ -204,6 +204,20 @@ scikit-learn>=1.4    # for upcoming module
 ```
 
 ---
+## 🚫 Contributions
+
+This repository is currently a **personal learning and portfolio project**.
+
+External contributions are not being accepted at this time.
+
+However, you’re welcome to:
+- Fork the repository
+- Use it for your own learning
+- Adapt ideas for your own projects
+
+For questions or discussions, feel free to open an issue.
+
+---
 
 ## 📄 License
 
