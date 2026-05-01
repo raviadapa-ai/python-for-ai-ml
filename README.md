@@ -205,19 +205,6 @@ scikit-learn>=1.4    # for upcoming module
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To add notebooks, fix issues, or propose new AIOps use cases:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-topic`)
-3. Commit your changes (`git commit -m "Add: topic description"`)
-4. Push and open a Pull Request
-
-Please follow the existing notebook naming convention and include an AIOps-relevant example wherever possible.
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
